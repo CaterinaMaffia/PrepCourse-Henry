@@ -1,4 +1,4 @@
-var cajon;
+//var cajon;
 
 // String
 //var bootcamp = 'Henry';
